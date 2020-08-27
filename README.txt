@@ -1,3 +1,5 @@
+This project was inspired by JetBrains Academy
+
 Simple Bot helped me to understand functions in python.
 Simple Bot 2 changes the function test() to make it simpler.
 
